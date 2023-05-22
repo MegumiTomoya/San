@@ -1,0 +1,986 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Sanrio characters random 1",
+      "publisher": "@cyberhearts",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/tray_icon.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/bratlantic",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/sanriopp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/20.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/21.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/22.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/23.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/24.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/25.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/26.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/27.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/28.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/29.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/1/30.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Sanrio characters random 2",
+      "publisher": "@cyberhearts",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/tray_icon.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/bratlantic",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/sanriopp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/20.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/21.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/22.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/23.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/24.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/25.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/26.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/27.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/28.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/29.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/2/30.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Sanrio characters random 3",
+      "publisher": "@cyberhearts",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/tray_icon.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/bratlantic",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/sanriopp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/20.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/21.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/22.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/23.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/24.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/25.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/26.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/27.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/28.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/29.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/3/30.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Sanrio characters random 4",
+      "publisher": "Sanrio",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/tray_icon.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/sanrio",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/sanriopp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/4/20.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Sanrio Talk 1",
+      "publisher": "@slyhterin",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/tray_icon.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/SLYHT_forest",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/sanriopp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/5/20.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Sanrio Talk 2",
+      "publisher": "@slyhterin",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/tray_icon.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/SLYHT_forest",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/sanriopp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/6/20.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Sanrio Chinese",
+      "publisher": "@StickersCloud",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/tray_icon.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/stickerscloud_68c0efdf264f733947cdaf9d2_by_StickersCloudBot",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/sanriopp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/0.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/20.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/21.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/22.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/7/23.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Sanrio Chibi 1",
+      "publisher": "Sanrio",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/tray_icon.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/Sanrio2",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/sanriopp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/8/20.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Sanrio Chibi 2",
+      "publisher": "Sanrio",
+      "tray_image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/tray_icon.png",
+      "publisherEmail": "tekinmkmk@gmail.com",
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.sanrio_stickers.lelou",
+      "publisher_website": "https://t.me/addstickers/Sanrio2",
+      "privacy_policy_website": "https://imam.aesthwp.xyz/sanriopp.html",
+      "license_agreement_website": "https://twitter.com/HassooniApps",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/1.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/2.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/3.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/4.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/5.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/6.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/7.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/8.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/9.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/10.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/11.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/12.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/13.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/14.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/15.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/16.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/17.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/18.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/19.webp",
+          "emojis": ["", ""]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/MegumiTomoya/San/main/9/20.webp",
+          "emojis": ["", ""]
+        }
+      ]
+    }
+  ]
+}
